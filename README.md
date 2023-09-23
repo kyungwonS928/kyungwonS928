@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 #### Project
 
 |Project|Destricption|stack|
-|----|-------:|:-------|
+|:----|:-------|:-------|
 |SportMangaer|네덜란드 축구 클럽 활동가들을 위한 Sport Club management 어플리케이션|Flutter, Firebase|
 |넷플릭스 UI 클론 코딩|Flutter를 공부하기 위해 인프런에서 강의 수강|Flutter, Firebase|
 |Done List|(솔룩스) 대학생 포트폴리오 작성을 도와주기 위한 대외활동, 대학생활 아카이브 사이트|ReactJS, Django|
