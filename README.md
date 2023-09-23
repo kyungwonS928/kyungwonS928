@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 |SportMangaer|네덜란드 축구 클럽 활동가들을 위한 Sport Club management 어플리케이션|Flutter, Firebase|
 |넷플릭스 UI 클론 코딩|Flutter를 공부하기 위해 인프런에서 강의 수강|Flutter, Firebase|
 |Done List|(솔룩스) 대학생 포트폴리오 작성을 도와주기 위한 대외활동, 대학생활 아카이브 사이트|ReactJS, Django|
-|mbti test|Django를 공부하기 위해 인프런에서 강의 수강|Django|
+|<M.B.I.T> 테스트 페이지 만들기|Django를 공부하기 위해 인프런에서 강의 수강|Django|
 |다용|다회용기 독려를 위한 배달/포장 플랫폼|Django|
 |공구하송|(솔룩스) 굿즈 공구 활동이 활발한 숙명여대 학생들을 위한 공구 사이트|ReactJS|
 |만들면서 배우는 리액트|ReactJS를 공부하기 위해 인프런에서 강의 수강|ReactJS|
