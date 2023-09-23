@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Kyugnwons%5Archive&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Kyugnwons%20Archive&fontSize=50)
 
 
 ## Hello, I'm Kyungwon 👋
