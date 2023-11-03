@@ -22,9 +22,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=kyungwonS928&show_icons=true">
 -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyungwonS928&layout=compact"><br><br>
-
-
-
+<br/>
 #### Activity
 ##### 2023
 - 23-24 GDSC Sookmyung Core Member(2023.09~)
@@ -38,7 +36,7 @@ Here are some ideas to get you started:
 - Attend to the 1st SMSH (2021.11)
 
 
-
+<br/>
 ### Project
 
 |Project|Destricption|stack|
@@ -50,7 +48,7 @@ Here are some ideas to get you started:
 |공구하송|굿즈 공구 활동이 활발한 숙명여대 학생들을 위한 공구 사이트|ReactJS|
 
 
-
+<br/>
 #### Toy Project for Study
 
 |Name|Destricption|stack|
