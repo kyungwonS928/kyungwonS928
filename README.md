@@ -4,7 +4,8 @@
 ## Hello, I'm Kyungwon 👋
 
 I'm majoring IT Engineering in Sookmyung Women's University.
-
+I enjoy exploring and practicing various fields of study.
+I'd like to be a developer who consistently grows through experiences.
 <!--
 **kyungwonS928/kyungwonS928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,6 +24,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyungwonS928&layout=compact"><br><br>
 
 
+
 #### Activity
 ##### 2023
 - 23-24 GDSC Sookmyung Core Member(2023.09~)
@@ -36,6 +38,7 @@ Here are some ideas to get you started:
 - Attend to the 1st SMSH (2021.11)
 
 
+
 ### Project
 
 |Project|Destricption|stack|
@@ -45,6 +48,7 @@ Here are some ideas to get you started:
 |Done List|대학생 포트폴리오 작성을 도와주기 위한 대외활동, 대학생활 아카이브 사이트|ReactJS, Django|
 |다용|다회용기 독려를 위한 배달/포장 플랫폼|ReactJS|
 |공구하송|굿즈 공구 활동이 활발한 숙명여대 학생들을 위한 공구 사이트|ReactJS|
+
 
 
 #### Toy Project for Study
