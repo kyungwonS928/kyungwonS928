@@ -24,19 +24,19 @@ Here are some ideas to get you started:
 
 
 #### Activity
-## 2023
+##### 2023
 - 23-24 GDSC Sookmyung Core Member(2023.09~)
 - Exchange student in Windesheim UAS(2023.02~2023.07)
 
-## 2022
+##### 2022
 - The member of Solux(Sookmyung's developer club) (2022.03~2023.02)
 - Attend to the 2nd SMSH: Da-yong (2022.08)
 
-## 2021
+##### 2021
 - Attend to the 1st SMSH (2021.11)
 
 
-#### Project
+### Project
 
 |Project|Destricption|stack|
 |:----|:-------|:-------|
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 |공구하송|굿즈 공구 활동이 활발한 숙명여대 학생들을 위한 공구 사이트|ReactJS|
 
 
-## Toy Project for Study
+#### Toy Project for Study
 
 |Name|Destricption|stack|
 |:----|:-------|:-------|
