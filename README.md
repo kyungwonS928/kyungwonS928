@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 #### Activity
 ## 2023
-- 23\~24 GDSC Sookmyung Core Member(2023.09~)
+- 23-24 GDSC Sookmyung Core Member(2023.09~)
 - Exchange student in Windesheim UAS(2023.02~2023.07)
 
 ## 2022
