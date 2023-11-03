@@ -49,11 +49,11 @@ Here are some ideas to get you started:
 
 #### Toy Project for Study
 
-|Name|Destricption|stack|
-|:----|:-------|:-------|
-|Training AI with Raspberry Pi|라즈베리 파이 실습 & 프로젝트 진행|Raspberry Pi|
+|Name|stack|
+|:----|:-------|
+|Training AI with Raspberry Pi|Raspberry Pi|
 |넷플릭스 UI 클론 코딩|Flutter를 공부하기 위해 인프런에서 강의 수강|Flutter, Firebase|
-|<M.B.I.T> 테스트 페이지 만들기|Django를 공부하기 위해 인프런에서 강의 수강|Django|
-|만들면서 배우는 리액트|ReactJS를 공부하기 위해 인프런에서 강의 수강|ReactJS|
-|너의 숙명은?|숙명여자대학교에 진학하고자 하는 예비 눈송이들을 위한 학과 성향 테스트|VanillarJS|
-|마스크 감지 프로젝트|머신러닝을 공부하기 위하여 진행했던 CNN을 이용한 마스크 객체 감지|Python, Jupyter notebook|
+|<M.B.I.T> 테스트 페이지 만들기|Django|
+|만들면서 배우는 리액트|ReactJS|
+|너의 숙명은?|VanillarJS|
+|CNN을 이용한 마스크 객체 감지|Python, Jupyter notebook|
