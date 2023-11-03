@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 |Name|Destricption|stack|
 |:----|:-------|:-------|
-|Raspberry Pi|라즈베리 파이 실습 & 프로젝트 진행|Raspberry Pi|
+|Training AI with Raspberry Pi|라즈베리 파이 실습 & 프로젝트 진행|Raspberry Pi|
 |넷플릭스 UI 클론 코딩|Flutter를 공부하기 위해 인프런에서 강의 수강|Flutter, Firebase|
 |<M.B.I.T> 테스트 페이지 만들기|Django를 공부하기 위해 인프런에서 강의 수강|Django|
 |만들면서 배우는 리액트|ReactJS를 공부하기 위해 인프런에서 강의 수강|ReactJS|
