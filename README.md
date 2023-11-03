@@ -3,8 +3,8 @@
 
 ## Hello, I'm Kyungwon 👋
 
-I'm majoring IT Engineering in Sookmyung Women's University. \n
-I enjoy exploring and practicing various fields of study.\n
+I'm majoring IT Engineering in Sookmyung Women's University.<br/>
+I enjoy exploring and practicing various fields of study.<br/>
 I'd like to be a developer who consistently grows through experiences.
 <!--
 **kyungwonS928/kyungwonS928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
