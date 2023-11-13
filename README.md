@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ### Team Project
 
-|Project|Destricption|my stack|
+|Project|Destricption|My stack|
 |:----|:-------|:-------|
 |DressMeUp|가상 피팅룸 서비스(졸업 프로젝트)|Flutter|
 |SportManager|네덜란드 축구 클럽 활동가들을 위한 Sport Club management 어플리케이션|Flutter, Firebase|
