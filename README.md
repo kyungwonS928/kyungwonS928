@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 |다용|다회용기 독려를 위한 배달/포장 플랫폼|ReactJS|
 |공구하송|굿즈 공구 활동이 활발한 숙명여대 학생들을 위한 공구 사이트|ReactJS|
 
-
+<!--
 #### Toy Project for Study
 
 |Name|stack|
@@ -56,4 +56,4 @@ Here are some ideas to get you started:
 |<M.B.I.T> 테스트 페이지 만들기|Django|
 |만들면서 배우는 리액트|ReactJS|
 |너의 숙명은?|VanillarJS|
-|CNN을 이용한 마스크 객체 감지|Python, Jupyter notebook|
+|CNN을 이용한 마스크 객체 감지|Python, Jupyter notebook| -->
