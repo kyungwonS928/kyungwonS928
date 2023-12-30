@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyungwonS928&layout=compact"><br><br>
 <br/>
-#### Experience
+### Experience
 ##### 2023
 - 23-24 GDSC Sookmyung Core Member(2023.09~)
 - Exchange student in Windesheim UAS(2023.02~2023.07)
