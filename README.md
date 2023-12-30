@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 |공구하송|굿즈 공구 활동이 활발한 숙명여대 학생들을 위한 공구 사이트|ReactJS|
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyungwonS928&show_icons=true&theme=radical)
 
 <!--
 #### Toy Project for Study
