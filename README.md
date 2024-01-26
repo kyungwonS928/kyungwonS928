@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 - Exchange student in Windesheim UAS(2023.02~2023.07)
 
 ##### 2022
-- The member of Solux(Sookmyung's developer club) (2022.03~2023.02)
+- Solux(Sookmyung's developer club) 27th Member (2022.03~2023.02)
 - Attend to the 2nd SMSH: Da-yong (2022.08)
 
 ##### 2021
-- Attend to the 1st SMSH (2021.11)
+- Attend to the 1st SMSH: look for sookmyung (2021.11)
 
 
 ### Team Project
