@@ -44,8 +44,6 @@ Here are some ideas to get you started:
 |Done List|대학생 포트폴리오 작성을 도와주기 위한 대외활동, 대학생활 아카이브 사이트|ReactJS, Django|
 |공구하송|굿즈 공구 활동이 활발한 숙명여대 학생들을 위한 공구 사이트|ReactJS|
 
-<br/><br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyungwonS928&show_icons=true&theme=radical)
 
 <!--
 #### Toy Project for Study
