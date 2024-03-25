@@ -23,8 +23,11 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyungwonS928&layout=compact"><br><br>
 <br/>
 ### Experience
+##### 2024
+- Sookmyung 잇(IT)다 Supporters 5th Member(2024.03~2023.06)
+
 ##### 2023
-- 23-24 GDSC Sookmyung Core Member(2023.09~)
+- 23-24 GDSC Sookmyung Core Member(2023.09~2024.08)
 - Exchange student in Windesheim UAS(2023.02~2023.07)
 
 ##### 2022
