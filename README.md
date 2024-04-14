@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <br/>
 ### Experience
 ##### 2024
-- Sookmyung 잇(IT)다 Supporters 5th Member(2024.03~2023.06)
+- Sookmyung 잇(IT)다 Supporters 5th Member(2024.03~2024.06)
 
 ##### 2023
 - 23-24 GDSC Sookmyung Core Member(2023.09~2024.08)
