@@ -25,10 +25,12 @@ Here are some ideas to get you started:
 ### Experience
 ##### 2024
 - Sookmyung 잇(IT)다 Supporters 5th Member(2024.03~2024.06)
+- Google Solution Challenge 24(2023.12~2024.05)
 
 ##### 2023
 - 23-24 GDSC Sookmyung Core Member(2023.09~2024.08)
 - Exchange student in Windesheim UAS(2023.02~2023.07)
+
 
 ##### 2022
 - Solux(Sookmyung's developer club) 27th Member (2022.03~2023.02)
