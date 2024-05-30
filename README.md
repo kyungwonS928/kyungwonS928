@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### Experience
 ##### 2024
 - Sookmyung 잇(IT)다 Supporters 5th Member(2024.03~2024.06)
-- Attend to Google Solution Challenge 24(2023.12~2024.05)
+- Attend to Google Solution Challenge 24(2023.12~2024.05) - 🏆Global Top 100
 
 ##### 2023
 - 23-24 GDSC Sookmyung Core Member(2023.09~2024.08)
