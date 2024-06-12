@@ -34,10 +34,6 @@ Here are some ideas to get you started:
 
 ##### 2022
 - Solux(Sookmyung's developer club) 27th Member (2022.03~2023.02)
-- Attend to the 2nd SMSH: Da-yong (2022.08)
-
-##### 2021
-- Attend to the 1st SMSH: look for sookmyung (2021.11)
 
 
 ### Team Project
