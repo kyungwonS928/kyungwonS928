@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <img src="https://github-readme-stats.vercel.app/api?username=kyungwonS928&show_icons=true">
 -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyungwonS928&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyungwonS928&layout=compact">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyungwonS928)](https://github.com/anuraghazra/github-readme-stats)
+<br><br>
 <br/>
 ### Experience
 ##### 2024
@@ -45,7 +46,6 @@ Here are some ideas to get you started:
 |SportManager|네덜란드 축구 클럽 활동가들을 위한 Sport Club management 어플리케이션|Flutter, Firebase|
 |Done List|대학생 포트폴리오 작성을 도와주기 위한 대외활동, 대학생활 아카이브 사이트|ReactJS, Django|
 |공구하송|굿즈 공구 활동이 활발한 숙명여대 학생들을 위한 공구 사이트|ReactJS|
-
 
 <!--
 #### Toy Project for Study
