@@ -3,7 +3,7 @@
 ## Hello, I'm Kyungwon 👋
 
 I'm majoring IT Engineering in Sookmyung Women's University.<br/>
-I'm a developer who identifies and improves on areas of weakness.
+I'm a developer who identifies and improves on areas of weakness.<br/>
 I'd like to be a developer who consistently grows through experiences.
 
 <!--
