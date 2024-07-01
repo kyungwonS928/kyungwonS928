@@ -3,8 +3,9 @@
 ## Hello, I'm Kyungwon 👋
 
 I'm majoring IT Engineering in Sookmyung Women's University.<br/>
-I enjoy exploring and practicing various fields of study.<br/>
+I'm a developer who identifies and improves on areas of weakness.
 I'd like to be a developer who consistently grows through experiences.
+
 <!--
 **kyungwonS928/kyungwonS928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -41,6 +42,7 @@ Here are some ideas to get you started:
 
 |Project|Destricption|My stack|
 |:----|:-------|:-------|
+|고독사 방지 시스템|노인 고독사 방지를 위한 모니터링 시스템|NextJS|
 |BeyondVision|시각 장애인들을 위한 운동 코칭 어플리케이션(Solution Challenge 2024)|Flutter|
 |DressMeUp|가상 피팅룸 서비스(졸업 프로젝트)|Flutter, React|
 |SportManager|네덜란드 축구 클럽 활동가들을 위한 Sport Club management 어플리케이션|Flutter, Firebase|
