@@ -2,10 +2,9 @@
 
 ## Hello, I'm Kyungwon 👋
 
-I'm majoring IT Engineering in Sookmyung Women's University.<br/>
-I'm a developer who identifies and improves on areas of weakness.<br/>
-I'd like to be a developer who consistently grows through experiences.
-
+I graduated from Sookmyung Women's University with a degree in IT Engineering. <br/>
+As a developer, I actively identify my weaknesses and work to improve them and continually grow through experiences. <br/>
+I aim to be a developer who is a lifelong learner and open-minded to new ideas and technologies.
 <!--
 **kyungwonS928/kyungwonS928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,12 +27,13 @@ Here are some ideas to get you started:
 <br/>
 ### Experience
 ##### 2024
-- SSAFY(Samsung SW Academy For Youth) 12th
+- SSAFY(SAMSUNG SW Academy For Youth) 12th
 - Sookmyung 잇(IT)다 Supporters 5th Member(2024.03~2024.06)
 - Attend to Google Solution Challenge 24(2023.12~2024.05) - 🏆Global Top 100
 
 ##### 2023
 - 23-24 GDSC Sookmyung Core Member(2023.09~2024.08)
+- Develop MVP for SportManager(2023.02~2023.06)
 - Exchange student in Windesheim UAS(2023.02~2023.07)
 
 
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 |Project|Destricption|My stack|
 |:----|:-------|:-------|
 |독거노인 고독사 방지 시스템|노인 고독사 방지를 위한 모니터링 시스템|NextJS|
-|BeyondVision|시각 장애인들을 위한 운동 코칭 어플리케이션(Solution Challenge 2024)|Flutter|
+|BeyondVision|시각 장애인들을 위한 운동 코칭 어플리케이션(Solution Challenge 24)|Flutter|
 |DressMeUp|가상 피팅룸 서비스(졸업 프로젝트)|Flutter, React|
 |SportManager|네덜란드 축구 클럽 활동가들을 위한 Sport Club management 어플리케이션|Flutter, Firebase|
 |Done List|대학생 포트폴리오 작성을 도와주기 위한 대외활동, 대학생활 아카이브 사이트|ReactJS, Django|
