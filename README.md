@@ -1,4 +1,4 @@
- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Kyungwon\'s%20Archive&fontSize=50)
+
 
 ## Hello, I'm Kyungwon 👋
 
@@ -6,6 +6,7 @@ I graduated from Sookmyung Women's University with a degree in IT Engineering. <
 As a developer, I actively identify my weaknesses and work to improve them and continually grow through experiences. <br/>
 I aim to be a developer who is a lifelong learner and open-minded to new ideas and technologies.
 <!--
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Kyungwon\'s%20Archive&fontSize=50)
 **kyungwonS928/kyungwonS928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
