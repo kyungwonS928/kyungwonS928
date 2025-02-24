@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <img src="https://github-readme-stats.vercel.app/api?username=kyungwonS928&show_icons=true">
 -->
-<!--
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyungwonS928&layout=compact">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyungwonS928)](https://github.com/anuraghazra/github-readme-stats)
--->
+
 ### Experience
 ##### 2024
 - SSAFY(SAMSUNG SW Academy For Youth) 12th (2024.07~2024.11)
