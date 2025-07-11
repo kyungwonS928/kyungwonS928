@@ -26,6 +26,10 @@ Here are some ideas to get you started:
 -->
 
 ### Experience
+
+##### 2025
+- SK AX AI Innovation Team (2025.01~)
+
 ##### 2024
 - SSAFY(SAMSUNG SW Academy For Youth) 12th (2024.07~2024.11)
 - Sookmyung IT-da Supporters 5th Member(2024.03~2024.06)
