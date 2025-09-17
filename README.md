@@ -11,7 +11,7 @@ I aim to be a developer who is a lifelong learner and open-minded to new ideas a
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyungwonS928&layout=compact">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyungwonS928)](https://github.com/anuraghazra/github-readme-stats) -->
 
-
+<!--
 ### Experience
 
 ##### 2025
@@ -28,7 +28,7 @@ I aim to be a developer who is a lifelong learner and open-minded to new ideas a
 - Exchange student in Windesheim UAS(2023.02~2023.07)
 
 ##### 2022
-- Solux(Sookmyung's developer club) 27th Member (2022.03~2023.02)
+- Solux(Sookmyung's developer club) 27th Member (2022.03~2023.02)-->
 
 
 <!--
